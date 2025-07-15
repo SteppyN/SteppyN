@@ -16,5 +16,5 @@
 ###  Проекты:
 | Название | Инструменты |
 | :--------: | :-------: |
-|[Дашборд по предсказанию исхода игры зависимости от ключевых характеристик матча](https://github.com/SteppyN/Footbool_tableau_project)|<img src="https://cdn.svgporn.com/logos/tableau-icon.svg?response-content-disposition=attachment%3Bfilename%3Dtableau-icon.svg">|
+|[Дашборд по предсказанию исхода игры зависимости от ключевых характеристик матча](https://github.com/SteppyN/Footbool_tableau_project)|<img height=10 src="https://cdn.svgporn.com/logos/tableau-icon.svg?response-content-disposition=attachment%3Bfilename%3Dtableau-icon.svg">|
 |[Решение типовых задач с помощью SQL-запросов](https://github.com/SteppyN/SQL_query)|
