@@ -16,7 +16,7 @@
 ###  Проекты:
 | Название |   Инструменты |
 | :--------- | :---------: |
-|[Анализ романа "Идиот"](https://github.com/SteppyN/analysis_books)|<img height=20 src=""https://img.shields.io/badge/MatPlotlib-white?style=flat-square"/><img height=20 "https://img.shields.io/badge/Nlp">|
+|[Анализ романа "Идиот"](https://github.com/SteppyN/analysis_books)|<img height=20 src="https://img.shields.io/badge/MatPlotlib-white?style=flat-square"/><img height=20 "https://img.shields.io/badge/Nlp">|
 |[Дашборд по предсказанию исхода игры зависимости от ключевых характеристик матча](https://github.com/SteppyN/Footbool_tableau_project)|<img height=20 src="https://cdn.svgporn.com/logos/tableau-icon.svg?response-content-disposition=attachment%3Bfilename%3Dtableau-icon.svg"/>|
 |[Автоматизированное создание графиков работы в Excel](https://github.com/SteppyN/work_schedule_in_excel/tree/main)|<img height=20 src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg"/><img height=20 src="https://rikeshmathew.com/wp-content/uploads/2024/12/PowerQuery.png"/>
 |[Решение типовых задач с помощью SQL-запросов](https://github.com/SteppyN/SQL_query)| <img height=20 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
