@@ -7,7 +7,6 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="ApacheAirFlow" **alt="AirFlow" width="40"  height="40"/>&nbsp;
@@ -16,7 +15,7 @@
 ###  Проекты:
 | Название |   Инструменты |
 | :--------- | :---------: |
-|[Анализ романа "Идиот"](https://github.com/SteppyN/analysis_books)|<img height=20 src="https://img.shields.io/badge/matplotlib-wite?style=for-the-badge?logoColor"/><img height=20 src="https://img.shields.io/badge/SeaBorn-white?style=flat-square"><img height=20 src="https://img.shields.io/badge/NLTK-white?style=flat-square"><img height=20 src="https://img.shields.io/badge/spacy-wite?style=plastic?logoColor"/> <img height=20 src="https://img.shields.io/badge/WordCloud-wite?style=plastic?logoColor"/> <img height=20 src="https://img.shields.io/badge/folium-wite?style=plastic?logoColor"/>|
-|[Дашборд по предсказанию исхода игры зависимости от ключевых характеристик матча](https://github.com/SteppyN/Footbool_tableau_project)|<img height=20 src="https://cdn.svgporn.com/logos/tableau-icon.svg?response-content-disposition=attachment%3Bfilename%3Dtableau-icon.svg"/>|
-|[Автоматизированное создание графиков работы в Excel](https://github.com/SteppyN/work_schedule_in_excel/tree/main)|<img height=20 src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg"/><img height=20 src="https://rikeshmathew.com/wp-content/uploads/2024/12/PowerQuery.png"/>
-|[Решение типовых задач с помощью SQL-запросов](https://github.com/SteppyN/SQL_query)| <img height=20 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
+|[Анализ романа "Идиот"](https://github.com/SteppyN/analysis_books)|<img height=20 src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge"/><img height=20 src="https://img.shields.io/badge/Seaborn-white?style=for-the-badge"/><img height=20 src="https://img.shields.io/badge/NLTK-white?style=for-the-badge"/><img height=20 src="https://img.shields.io/badge/Spacy-white?style=for-the-badge"/><img height=20 src="https://img.shields.io/badge/WordCloud-white?style=for-the-badge"/><img height=20 src="https://img.shields.io/badge/DeePpavlov-white?style=for-the-badge"/><img height=20 src="https://img.shields.io/badge/folium-white?style=for-the-badge&logo=folium"/>|
+|[Дашборд по предсказанию исхода игры зависимости от ключевых характеристик матча](https://github.com/SteppyN/Footbool_tableau_project)|<img height=20 src="https://img.shields.io/badge/Tableau-white?style=for-the-badge"/>|
+|[Автоматизированное создание графиков работы в Excel](https://github.com/SteppyN/work_schedule_in_excel/tree/main)|<img height=20 src="https://img.shields.io/badge/Excel-white?style=for-the-badge&logo=excel"/><img height=20 src="https://img.shields.io/badge/PowerQuery-white?style=for-the-badge"/>
+|[Решение типовых задач с помощью SQL-запросов](https://github.com/SteppyN/SQL_query)| <img height=20 src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=darkblue"/>
